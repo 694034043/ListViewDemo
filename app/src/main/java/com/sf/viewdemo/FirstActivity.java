@@ -13,7 +13,7 @@ import android.widget.Button;
  */
 
 public class FirstActivity extends Activity implements View.OnClickListener {
-
+    //控件的声明
     private Button btn_listview;
     private Button btn_gridview;
     private Button btn_recyclerview;
